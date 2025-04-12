@@ -1,0 +1,8 @@
+# Sample CSV for housing data
+    Size (sqft),Price ($),Bedrooms,Location
+    1500,400000,3,Urban
+    1800,500000,4,Urban
+    1200,350000,2,Suburban
+    2000,600000,4,Urban
+    900,300000,2,Suburban
+    
